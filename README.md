@@ -1,1 +1,3 @@
 # HR-Employee-Distribution-Report
+
+Presenting my HR Employee Distribution Report, a data analysis project that involved extracting data from the internet, analyzing it in MySQL, and creating an interactive Power BI dashboard. The report offers valuable insights into employee demographics, departmental distribution, and tenure. The interactive dashboard enables HR managers and stakeholders to make data-driven decisions, optimize workforce planning, and enhance organizational performance. This project showcases my attention to detail, analytical skills, and passion for leveraging data to support HR strategies.
